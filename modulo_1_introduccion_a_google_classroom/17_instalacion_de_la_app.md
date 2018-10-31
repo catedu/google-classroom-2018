@@ -2,7 +2,7 @@
 
 Dependiendo de los dispositivos con los que trabajemos en el centro o en casa, puede resultar interesante descargarnos la aplicación en nuestra tableta o teléfono móvil.
 
-![Mod1_9.png](images/image30.png)
+![Mod1_9.png](../images/image30.png)
 
 Fig 9\. Instalación de la app en dispositivos Android
 

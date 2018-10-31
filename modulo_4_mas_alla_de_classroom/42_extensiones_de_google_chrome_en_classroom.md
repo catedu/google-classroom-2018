@@ -26,6 +26,6 @@ Los alumnos comparten con el profesor:
 
 Si un alumno de Classroom se añade esta extensión, podrá enviar la web al profesor, y este actuará como filtro antes de que se publique para toda la clase.
 
-![](images/image27.png)
+![](../images/image27.png)
 
 [insertar presentacion Mod4_4.2.1]

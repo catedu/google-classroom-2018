@@ -13,6 +13,6 @@ Este apartado contiene la mayor parte de los contenidos de la clase. Es una part
 
 Todos los trabajos, materiales y recursos, quedan organizados en los temas que se hayan creado.
 
-![](images/image12.png)
+![](../images/image12.png)
 
 [insertar presentación Módulo 2_2.3]

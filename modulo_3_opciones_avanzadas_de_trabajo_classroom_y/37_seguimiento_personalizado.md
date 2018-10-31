@@ -4,18 +4,18 @@ Hemos visto las diversas formas desde las que controlar el trabajo de cada alumn
 
 Podemos consultar esta ficha individual accediendo desde el apartado “Personas”, o bien directamente desde la página de inicio de Classroom:
 
-![](images/image10.png)
+![](../images/image10.png)
 
 Pinchamos en el número de alumnos de la miniatura de la clase:
 
-![miniatura.PNG](images/image42.png)
+![miniatura.PNG](../images/image42.png)
 
 A continuación, en el nombre del alumno cuyo progreso queramos conocer:
 
-![lista_alumnos.PNG](images/image46.png)
+![lista_alumnos.PNG](../images/image46.png)
 
 Aparece su historial con la lista de todas las tareas o preguntas, el estado de las mismas, la calificación, etc. Pinchando en cada tarea también podríamos entrar a la revisión y corrección de la misma:
 
-![](images/image38.png)
+![](../images/image38.png)
 
 [insertar Presentación Modulo3_EJEMPLOTAREA]
