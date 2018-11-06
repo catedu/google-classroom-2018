@@ -1,7 +1,8 @@
 # Summary
 
-* [google-classroom-2018](README.md)
-* [MÓDULO 1. INTRODUCCIÓN A GOOGLE CLASSROOM](modulo_1_introduccion_a_google_classroom/README.md)
+* [Google Classroom](README.md)
+
+### MÓDULO 1. INTRODUCCIÓN A GOOGLE CLASSROOM
   * [1.1. ¿Por qué Google?](modulo_1_introduccion_a_google_classroom/11_por_que_google.md)
   * [1.2. ¿Qué ofrece Google Classroom?](modulo_1_introduccion_a_google_classroom/12_que_ofrece_google_classroom.md)
   * [1.3. Google Classroom. ¿Por dónde empezar?](modulo_1_introduccion_a_google_classroom/13_google_classroom_por_donde_empezar.md)
@@ -12,8 +13,10 @@
   * [1.8. Creación de una clase como profesor](modulo_1_introduccion_a_google_classroom/18_creacion_de_una_clase_como_profesor.md)
   * [1.9. Apuntarse a una clase](modulo_1_introduccion_a_google_classroom/19_apuntarse_a_una_clase.md)
   * [Para saber más:](modulo_1_introduccion_a_google_classroom/para_saber_mas.md)
-* [MÓDULO 2. TRABAJO BÁSICO CON GOOGLE CLASSROOM](modulo_2_trabajo_basico_con_google_classroom/README.md)
-  * [](modulo_2_trabajo_basico_con_google_classroom/.md)
+
+<!--
+### MÓDULO 2. TRABAJO BÁSICO CON GOOGLE CLASSROOM
+  * [Trabajo básico con Google Classroom](modulo_2_trabajo_basico_con_google_classroom/trabajo-basico.md)
   * [2.1. El apartado “Tablón” ](modulo_2_trabajo_basico_con_google_classroom/21_el_apartado_tablon.md)
   * [2.2. El apartado “Personas”](modulo_2_trabajo_basico_con_google_classroom/22_el_apartado_personas.md)
   * [2.3. El apartado “Trabajo de clase”](modulo_2_trabajo_basico_con_google_classroom/23_el_apartado_trabajo_de_clase.md)
@@ -42,3 +45,5 @@
   * [](modulo_4_mas_alla_de_classroom/.7.md)
   * [4.6. Transferir datos, crear una copia de seguridad, transferir una clase](modulo_4_mas_alla_de_classroom/46_transferir_datos,_crear_una_copia_de_seguridad,.md)
 * [Para saber más](para_saber_mas.md)
+
+-->

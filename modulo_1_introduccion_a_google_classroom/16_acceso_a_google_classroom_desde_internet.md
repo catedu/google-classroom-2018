@@ -10,4 +10,4 @@ Para realizar las tareas de este curso de Aularagón, deberás acceder a Classro
 
 En una primera configuración básica, podemos ir a nuestro perfil y cambiar la imagen y el modo en que queremos que Classroom nos envíe las notificaciones.
 
-[incrustar aquí la presentación Mod1_1.6]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0p4rnUzwYYNmEfLG3wYnB0pk5ftkaXG-D1SHEtuVbe3Jlmv2pR7v5iYjC_wcjocoOxZ4HzZJFqoqt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

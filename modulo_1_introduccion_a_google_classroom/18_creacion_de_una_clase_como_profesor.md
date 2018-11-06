@@ -31,4 +31,4 @@ Si se tiene una clase anterior al verano de 2018, no aparecerá la opción Traba
 
 En la siguiente presentación se repasan los pasos a seguir para crear una clase y personalizar la cabecera y se muestran las tres partes principales de Classroom, cuya utilidad desarrollaremos en los siguientes temas.
 
-[incrustar aquí la presentación Mod1_1.8]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSECNf6_hUPawO8bG_vHKjaD5_1owrM3c3ImGR2VBWO4VYg3K1HuDSP0in2ujddDdoBK2b-q0ACFPJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

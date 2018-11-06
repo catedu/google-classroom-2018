@@ -1,4 +1,8 @@
-## ![](../images/image28.png)
+# Trabajo básico con Google Classroom
+
+Al entrar en Classroom veremos todas las clases que tenemos creadas o aquellas en las que participamos..
+
+![](../images/image28.png)
 
 El icono que representa la carpeta da acceso directo a la carpeta que se ha creado en Drive.
 

@@ -34,4 +34,4 @@ Google afirma que “prácticamente puedes tener todos los usuarios que quieras�
 
 Además de la gestión de usuarios, el administrador puede modificar permisos de acceso a los elementos de Classroom.
 
-[incrustar aquí la presentación Mod1_1.5]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlo-Ww3W5IvVagOWdRTzKNdwoZA6jkciQ-HXDzOha7aEr2uhxtPCUw4ZawYj7oM0ll66nHM2k2GgcB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
