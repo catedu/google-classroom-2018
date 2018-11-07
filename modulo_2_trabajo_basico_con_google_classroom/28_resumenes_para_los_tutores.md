@@ -14,4 +14,4 @@ Les llega información acerca de:
 
 De forma predeterminada, los resúmenes por correo de tus clases están activados. El profesor de la clase puede desactivarlos desde “Ajustes de clase”. En el apartado 2.2\. se ha explicado cómo hacerlo.    
 
-[insertar presentación Modulo2_2.8]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhEcq_weGCec5O0SatypDK13v84zIFKug9NzEyu-y0_Y80G9pQF4JuA87hSOy_DzB8X0Zsu4iyvY50/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

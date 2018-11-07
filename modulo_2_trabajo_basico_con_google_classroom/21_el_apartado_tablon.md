@@ -11,4 +11,4 @@ Esta pestaña da acceso a un muro como el de cualquier red social. Es la parte m
 
 Los alumnos podrán realizar comentarios a cada una de estas publicaciones para aclarar sus dudas.
 
-[insertar presentación Módulo2_2.1]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzt3jargtq98csxuECG2oEu8Pjz9EoBgujkfnsTSZSqx5p971J009_N4LG0d6SLtlppyrLw4UIvBn4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

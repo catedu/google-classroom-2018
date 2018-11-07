@@ -8,7 +8,7 @@ Todas las tareas que proponemos a los alumnos quedan registradas en el menú pri
 
 Vemos el acceso directo a “Tareas pendientes” que, al hacer clic sobre él, muestra todas las tareas pendientes (para revisar) y realizadas (revisadas) de todas las clases o de la que seleccionemos en el desplegable.
 
-    ![](../images/image36.png)
+![](../images/image36.png)
 
 Cuando se quiera dar por finalizada una tarea, en los tres puntos de la derecha de la misma aparece la opción de marcar como revisada,
 

@@ -12,4 +12,4 @@ Google Classroom crea un calendario para cada clase y añade un calendario más 
 
 Este calendario también recoge la fecha de entrega de tareas de Classroom pero en este caso sí lo podemos editar (como cualquier otro calendario de esta aplicación). Por ejemplo, de forma manual podemos añadir las fechas de los exámenes o de una excursión y compartir el calendario con los alumnos.
 
-[insertar presentación Módulo 2_2.4]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHFhgw7kmMjg32gWYswNe6g0b79VnmvCsbUruolVzbt544XMSGjyasSU-XYV05wQNRdCqL69I_euM6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

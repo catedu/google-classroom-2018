@@ -8,4 +8,4 @@ Abundando más en sus posibilidades como herramienta de comunicación, podemos u
 
 Lanzando una pregunta como tarea para casa, en la clase siguiente se presentan los resultados como punto de partida para comentar el tema que se va a tratar, por ejemplo. O se decide la fecha de un examen, de una excursión o de cualquier actividad.
 
-[insertar presentación 4.5.votar]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWjZFFbULhfGB-AnY_KSXeEUJZ4_65B94UCaWL2Aca0EogxGQeCRNW4vPExInIJ8-ILC5oVRCG5xnr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -1,3 +1,5 @@
+En los módulos anteriores hemos conocido las funcionalidades básicas de Google Classroom, más que suficientes para su utilización diaria en el aula. En este último módulo del curso vamos a presentar algunas opciones avanzadas que facilitan aspectos concretos del trabajo con Google Classroom o que pueden resultar interesantes a los usuarios de determinadas aplicaciones de la Web 2.0 que son compatibles.
+
 ## 4.1\. Exámenes en Classroom {#4-1-ex-menes-en-classroom}
 
 La posibilidad de realizar exámenes dentro de Google Classroom es factible, en parte gracias a las últimas mejoras implementadas en 2018.
@@ -18,4 +20,4 @@ Si queremos importar las notas hay que tener en cuenta unas opciones de configur
 *   Las cuentas de los alumnos deben estar en el mismo dominio que la nuestra.
 *   En Classroom, el formulario debe ser el único archivo adjunto a la tarea
 
-[insertar presentación Modulo4_4.1_examenes]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5Dt54BKTW3ll4j4qh4DHDHX90oiW1u3pYHj1PNg1xWfIbnOK1unxr6EHMVip29E0Wa9oZ9xwZIuVt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -14,4 +14,4 @@ También podemos invitar a otros profesores para que colaboren en nuestro Classr
 
 En Google Classroom puede haber por aula hasta un máximo de 20 profesores y un total de 1000 usuarios entre profesores y alumnos.
 
-[insertar presentación Módulo 2_2.2]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMntsb_-jePbWkBT4PLMK-hDG2fTtCR6nJ0fudjL2xbq8ysWnPX32V7QUt_jN2AeU5PQs7-zVhKuWt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
