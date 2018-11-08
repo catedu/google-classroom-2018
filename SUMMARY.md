@@ -42,7 +42,6 @@
   * [4.3. Aplicaciones que integran Google Classroom](modulo_4_mas_alla_de_classroom/43_aplicaciones_que_integran_google_classroom.md)
   * [4.4. Páginas web que integran Classroom](modulo_4_mas_alla_de_classroom/44_paginas_web_que_integran_classroom.md)
   * [4.5. Classroom y la comunicación](modulo_4_mas_alla_de_classroom/45_classroom_y_la_comunicacion.md)
-  * [](modulo_4_mas_alla_de_classroom/.7.md)
   * [4.6. Transferir datos, crear una copia de seguridad, transferir una clase](modulo_4_mas_alla_de_classroom/46_transferir_datos,_crear_una_copia_de_seguridad,.md)
   * [Para saber más](para_saber_mas.md)
 
