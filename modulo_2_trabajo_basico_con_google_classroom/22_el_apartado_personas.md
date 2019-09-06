@@ -1,4 +1,4 @@
-## 2.2\. El apartado “Personas” {#2-2-el-apartado-personas}
+## El apartado “Personas” {#2-2-el-apartado-personas}
 
 Este apartado permite la gestión de los alumnos como usuarios de Classroom. Desde aquí podemos hacer lo siguiente:
 
