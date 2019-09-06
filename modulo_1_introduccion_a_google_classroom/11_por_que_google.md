@@ -1,4 +1,4 @@
-## 1.1\. ¿Por qué Google? {#1-1-por-qu-google}
+## ¿Por qué Google? {#1-1-por-qu-google}
 
 Google Classroom forma parte de Google Suite (G Suite), un servicio de Google que proporciona varios productos con un dominio personalizado. Existen varias versiones: por ejemplo, Google Apps for Work, que va dirigido a las empresas; Google Apps para organizaciones sin ánimo de lucro y la que nos interesa, Google Apps for Education, también llamado G Suite for Education, un servicio gratuito para centros educativos de Primaria y Secundaria (también para universidades hasta 30.000 usuarios).
 
