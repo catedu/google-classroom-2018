@@ -1,4 +1,4 @@
-## 1.5\. Tareas de Administración {#1-5-tareas-de-administraci-n}
+## Tareas de Administración {#1-5-tareas-de-administraci-n}
 
 Además de registrar el dominio y solicitar el servicio, el Administrador es el encargado de una tarea fundamental: crear y administrar usuarios.
 
