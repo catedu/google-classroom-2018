@@ -1,4 +1,4 @@
-## 2.3\. El apartado “Trabajo de clase” {#2-3-el-apartado-trabajo-de-clase}
+## El apartado “Trabajo de clase” {#2-3-el-apartado-trabajo-de-clase}
 
 Este apartado contiene la mayor parte de los contenidos de la clase. Es una parte estática, que mantiene la misma organización con la que se va creando. Desde aquí se tiene acceso a las siguientes posibilidades:
 
