@@ -1,4 +1,4 @@
-## 1.3\. Google Classroom. ¿Por dónde empezar? {#1-3-google-classroom-por-d-nde-empezar}
+## Google Classroom. ¿Por dónde empezar? {#1-3-google-classroom-por-d-nde-empezar}
 
 Hasta hace poco, para contar con Google Classroom se precisaba de una cuenta con dominio propio en Google Apps for Education, es decir, utilizarlo dependía de una decisión de todo el centro y pasaba por realizar un pequeño desembolso económico necesario para comprar el dominio (alrededor de 20€ al año -hay muchas empresas que pueden proporcionarte el dominio en tu centro-). Ahora ya es posible crear aulas en Classroom desde una cuenta personal o participar como alumno también con un dominio externo. No obstante, viendo las ventajas que supone la suite completa y sobre todo la certeza de que se trata de un entorno seguro, recomendamos el registro en Google Suite for Education.
 
