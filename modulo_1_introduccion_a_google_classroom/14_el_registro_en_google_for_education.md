@@ -1,4 +1,4 @@
-## 1.4\. El registro en Google for Education {#1-4-el-registro-en-google-for-education}
+## El registro en Google for Education {#1-4-el-registro-en-google-for-education}
 
 Presentamos cómo se adquiere este servicio, proceso que no es necesario para seguir este curso.
 
