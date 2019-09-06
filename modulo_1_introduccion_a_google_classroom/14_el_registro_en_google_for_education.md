@@ -4,7 +4,7 @@ Presentamos cómo se adquiere este servicio, proceso que no es necesario para se
 
 El primer paso consiste en [registrar al centro educativo](https://www.google.com/url?q=https://support.google.com/a/answer/2856827?hl%3Des&sa=D&ust=1540994740405000) a través del formulario G Suite for Education. Ahí el Administrador del centro tiene que ir dando la información necesaria, que Google comprueba.
 
-![](../images/image43.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image43.png)
 
 Fig. 3\. Primera parte del formulario de registro en G Suite for Education.
 

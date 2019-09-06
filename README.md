@@ -4,4 +4,4 @@ Breve curso introductorio a esta potente herramienta de gestión asignaturas que
 
 Para realizar este curso es necesario tener una CUENTA PERSONAL DE GMAIL
 
-![logo Google Classroom](images/logo-google-classroom.jpg)
+![logo Google Classroom](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/logo-google-classroom.jpg)

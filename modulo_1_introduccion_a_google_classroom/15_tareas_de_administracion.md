@@ -2,29 +2,29 @@
 
 Además de registrar el dominio y solicitar el servicio, el Administrador es el encargado de una tarea fundamental: crear y administrar usuarios.
 
-Solo él o los docentes Administradores (existe un Superadministrador que puede crear usuarios Administradores)  tienen acceso a la Consola de Administración.  ![](../images/image26.png)
+Solo él o los docentes Administradores (existe un Superadministrador que puede crear usuarios Administradores)  tienen acceso a la Consola de Administración.  ![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image26.png)
 
 Fig. 4\. Acceso al panel de Administración desde el inicio de sesión
 
-![](../images/image24.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image24.png)
 
 Fig. 5\. Escritorio de Administración
 
 El icono de Usuarios nos permite acceder a la pantalla de creación y gestión de los mismos. Se pueden crear usuarios de uno en uno o también utilizar una hoja *.csv para crearlos de forma masiva. En la parte inferior derecha de la pantalla aparecen los iconos que lo gestionan:
 
-![usuarios1.PNG](../images/image32.png)
+![usuarios1.PNG](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image32.png)
 
 Fig 6\. Creación de usuarios
 
 Para crear un único usuario basta con rellenar la ficha correspondiente en la que hay que asignar un correo electrónico del dominio y una contraseña. Es importante en este caso seguir siempre un mismo criterio para asignar estos nombres: número de expediente, inicial y apellidos del alumno, etc. La contraseña puede ser la misma para todos los usuarios nuevos ya que en el momento en que acceden por primera vez se les solicita el cambio. Así mismo, si un usuario pierde o no recuerda la contraseña el administrador puede resetear la cuenta volviendo a crear una nueva contraseña que podrá ser cambiada de nuevo por el usuario.
 
-![usuarios2.PNG](../images/image8.png)
+![usuarios2.PNG](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image8.png)
 
 Fig 7\. Pantalla de creación de un nuevo usuario
 
 Para añadir un número alto de usuarios es necesario crear previamente una hoja de cálculo en formato *.csv con todos ellos, en la que se incluyan todos los datos que se solicitan: nombre, usuario, contraseña y otros según las indicaciones que se muestran en las ayudas.
 
-![](../images/image19.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image19.png)
 
 Fig 8\. Pantalla para inscripción masiva de usuarios
 

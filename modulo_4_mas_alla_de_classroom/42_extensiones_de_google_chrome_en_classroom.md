@@ -26,7 +26,7 @@ Se contemplan dos situaciones en las que nos puede resultar útil esta extensió
 
 Si un alumno de Classroom se añade esta extensión, podrá enviar la web al profesor, y este actuará como filtro antes de que se publique para toda la clase.
 
-![](../images/image27.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image27.png)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT30HgHkLfFtYAtxwghsbJUEPqTrkY61VSnDDSF3TEqxtqVT6e9kWcMZFcLmKO-STls13ZFVKfumUKi/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -42,16 +42,16 @@ Los editores de texto para las tareas y publicaciones de Classroom son muy senci
 
 Lo encontramos en la Chrome Web Store:
 
-![](../images/image15.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image15.png)
 
 Una vez añadido a Chrome y reiniciado el navegador, veremos el acceso en la esquina superior derecha, junto a la barra de búsqueda:
 
-![](../images/image4.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image4.png)
 
 Para insertar un icono en el texto o título de la tarea, debemos pinchar sobre ese icono del unicornio de nuestro  navegador y buscar el emoticono que queramos. Quedará copiado en el portapapeles a la espera de que lo peguemos en el editor de Classroom.
 
-![](../images/image31.png) 
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image31.png) 
 
-![](../images/image14.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image14.png)
 
 

@@ -13,6 +13,6 @@ Este apartado contiene la mayor parte de los contenidos de la clase. Es una part
 
 Todos los trabajos, materiales y recursos, quedan organizados en los temas que se hayan creado.
 
-![](../images/image12.png)
+![](https://raw.githubusercontent.com/catedu/google-classroom-2018/master/images/image12.png)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFvMxRXqZuDSv2tKqaA2Qdz0wUL3Wop_HgY6Fe3wRXQPXbrVvgXTgmCKOTlFJwzyr1StxjC6JYuZwJ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
