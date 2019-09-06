@@ -1,4 +1,4 @@
-## 1.9\. Apuntarse a una clase {#1-9-apuntarse-a-una-clase}
+## Apuntarse a una clase {#1-9-apuntarse-a-una-clase}
 
 Un alumno al entrar en Classroom puede ver las clases en las que está inscrito. Para estar en una clase tiene dos posibilidades:
 
