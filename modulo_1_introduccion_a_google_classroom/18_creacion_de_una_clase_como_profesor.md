@@ -1,4 +1,4 @@
-## 1.8\. Creación de una clase como profesor {#1-8-creaci-n-de-una-clase-como-profesor}
+## Creación de una clase como profesor {#1-8-creaci-n-de-una-clase-como-profesor}
 
 Para poder usar Google Classroom con los alumnos es imprescindible “crear una clase” o aula virtual, es decir, establecer qué grupo de alumnos tiene acceso a los materiales y tareas que vayamos a publicar. Puedes optar porque esta clase de Classroom sea la misma que la de tu grupo (“Matemáticas 1ºA”, “Matemáticas 1ºB”, etc.), o agrupar a un mismo nivel en el mismo Classroom (por ejemplo “Matemáticas 1º ESO”). En cualquiera de los dos casos, gestionar los grupos y las tareas es sencillo.
 
