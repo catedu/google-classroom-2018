@@ -1,4 +1,4 @@
-## 2.4\. El calendario de Classroom {#2-4-el-calendario-de-classroom}
+## El calendario de Classroom {#2-4-el-calendario-de-classroom}
 
 Google Classroom crea un calendario para cada clase y añade un calendario más a nuestro Google Calendar. A ambos podemos acceder desde el apartado “Información” de la clase:
 
