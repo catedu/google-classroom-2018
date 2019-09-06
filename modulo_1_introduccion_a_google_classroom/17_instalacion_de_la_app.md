@@ -1,4 +1,4 @@
-## 1.7\. Instalación de la App {#1-7-instalaci-n-de-la-app}
+## Instalación de la App {#1-7-instalaci-n-de-la-app}
 
 Dependiendo de los dispositivos con los que trabajemos en el centro o en casa, puede resultar interesante descargarnos la aplicación en nuestra tableta o teléfono móvil.
 
