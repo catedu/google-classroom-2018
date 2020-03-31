@@ -45,3 +45,5 @@ En ocasiones resulta muy útil elaborar un pequeño video para explicar cómo re
 *   **Quizziz** es una herramienta de creación de cuestionarios similar al popular Kahoot integrada en Classroom:
 
 [https://quizizz.zendesk.com/hc/en-us/articles/207153729-How-to-use-the-Google-Classroom-integration-](https://www.google.com/url?q=https://quizizz.zendesk.com/hc/en-us/articles/207153729-How-to-use-the-Google-Classroom-integration-&sa=D&ust=1540994740456000)
+
+{% youtube %}https://www.youtube.com/watch?time_continue=1&v=pHXnnzOjs1A&feature=emb_logo{% endyoutube %}
