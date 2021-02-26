@@ -19,11 +19,12 @@
   * [2.1. El apartado “Tablón” ](modulo_2_trabajo_basico_con_google_classroom/21_el_apartado_tablon.md)
   * [2.2. El apartado “Personas”](modulo_2_trabajo_basico_con_google_classroom/22_el_apartado_personas.md)
   * [2.3. El apartado “Trabajo de clase”](modulo_2_trabajo_basico_con_google_classroom/23_el_apartado_trabajo_de_clase.md)
-  * [2.4. El calendario de Classroom](modulo_2_trabajo_basico_con_google_classroom/24_el_calendario_de_classroom.md)
-  * [2.5. Control de los trabajos pendientes de revisión](modulo_2_trabajo_basico_con_google_classroom/25_control_de_los_trabajos_pendientes_de_revision.md)
-  * [2.6. Archivar, recuperar o eliminar una clase](modulo_2_trabajo_basico_con_google_classroom/26_archivar,_recuperar_o_eliminar_una_clase.md)
-  * [2.7. La interfaz de alumno](modulo_2_trabajo_basico_con_google_classroom/27_la_interfaz_de_alumno.md)
-  * [2.8. Resúmenes para los tutores](modulo_2_trabajo_basico_con_google_classroom/28_resumenes_para_los_tutores.md)
+  * [2.4. El apartado "Calificaciones"](modulo_2_trabajo_basico_con_google_classroom/24_el_apartado_calificaciones.md)
+  * [2.5. El calendario de Classroom](modulo_2_trabajo_basico_con_google_classroom/24_el_calendario_de_classroom.md)
+  * [2.6. Control de los trabajos pendientes de revisión](modulo_2_trabajo_basico_con_google_classroom/25_control_de_los_trabajos_pendientes_de_revision.md)
+  * [2.7. Archivar, recuperar o eliminar una clase](modulo_2_trabajo_basico_con_google_classroom/26_archivar,_recuperar_o_eliminar_una_clase.md)
+  * [2.8. La interfaz de alumno](modulo_2_trabajo_basico_con_google_classroom/27_la_interfaz_de_alumno.md)
+  * [2.9. Resúmenes para los tutores](modulo_2_trabajo_basico_con_google_classroom/28_resumenes_para_los_tutores.md)
   * [Para saber más:](modulo_2_trabajo_basico_con_google_classroom/para_saber_mas.md)
 
 ### MÓDULO 3. OPCIONES AVANZADAS DE TRABAJO: CLASSROOM Y GOOGLE DRIVE
