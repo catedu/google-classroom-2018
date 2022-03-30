@@ -2,7 +2,7 @@
 
 Cuando ya tenemos cuenta de usuario en Google Classroom existen varias vías de acceso a la plataforma, bien directamente o desde cualquier otro servicio Google. Por ejemplo, si  accedemos a nuestra cuenta de correo electrónico, podremos entrar en Classroom buscando la aplicación clicando en el mosaico que aparece en la esquina superior derecha. En caso de que no aparezca entre los iconos el de Classroom, abrir primero Gmail.
 
-Para entrar directamente a Google Classroom accederemos a la dirección [https://classroom.google.com](https://www.google.com/url?q=https://classroom.google.com&sa=D&ust=1540994740409000), y allí introduciremos nuestro usuario y contraseña. La primera vez que se accede, la aplicación pregunta si entras como profesor o como alumno.  El modo de acceso que se elija marcará el perfil con el que se entrará posteriormente a la aplicación, por ello es importante que cada uno entre en el modo que le corresponde la primera vez. Para cambiar de perfil, es necesario hacerlo desde la administración de G Suite.
+Para entrar directamente a Google Classroom accederemos a la dirección [https://classroom.google.com](https://classroom.google.com), y allí introduciremos nuestro usuario y contraseña. La primera vez que se accede, la aplicación pregunta si entras como profesor o como alumno.  El modo de acceso que se elija marcará el perfil con el que se entrará posteriormente a la aplicación, por ello es importante que cada uno entre en el modo que le corresponde la primera vez. Para cambiar de perfil, es necesario hacerlo desde la administración de G Suite.
 
 Si se entra como alumno, el sistema ofrece incorporarse a una clase. En el caso de profesor, crear una clase o apuntarse a una clase de otro profesor.
 
